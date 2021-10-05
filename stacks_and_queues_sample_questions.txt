@@ -1,0 +1,12 @@
+1. 
+Import scanner class
+Store names into String variable using Scanner input
+Create a temp copy of the stack
+Use for loop to iterate through the stack and pop each element
+Check if the element is equal to the input
+If equals, return the index i
+
+2. 
+Create a queue object
+Iterate through the stack and pop each element
+After popping, enqueue the element into the queue
